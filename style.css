@@ -92,3 +92,15 @@
   color: black;
 }
 
+img {
+  border-radius: 50%;
+}
+
+.jumbotron{
+  background-image: url(https://videohive.img.customer.envatousercontent.com/files/234349203/abstract%20coding%20wall%20590x.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=954912bdac817ee3282a3be492725f93);
+  background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+margin-bottom: 0%;
+
+}
